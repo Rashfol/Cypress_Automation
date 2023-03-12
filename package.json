@@ -1,0 +1,15 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "my first cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fola",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.7.0"
+  }
+}
